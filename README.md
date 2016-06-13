@@ -6,4 +6,4 @@ This project explores the Java language itself.
 ### Simple commands to compile into local maven repository
 
     git clone https://github.com/anttiraisala/java-language-tests.git
-    java-language-tests
+    cd java-language-tests
