@@ -1,7 +1,7 @@
 # java-language-tests
 This project explores the Java language itself.
 
-## Get the library working
+## Get "Java Language Tests" from github
 
 ### Simple commands to get Java Language Tests
 
