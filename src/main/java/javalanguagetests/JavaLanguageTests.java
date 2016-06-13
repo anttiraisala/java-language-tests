@@ -16,6 +16,8 @@ public class JavaLanguageTests {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        CompoundAssignmentOperator cao = new CompoundAssignmentOperator();
     }
     
 }
