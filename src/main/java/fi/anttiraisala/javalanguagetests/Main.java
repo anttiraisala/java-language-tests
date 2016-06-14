@@ -3,19 +3,21 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javalanguagetests;
-
-import org.junit.Test;
-
+package fi.anttiraisala.javalanguagetests;
 
 /**
  *
  * @author anttir
  */
-public class CompoundAssignmentOperatorTests {
-    @Test
-    public void compoundAssignmentOperatorTests(){
+public class Main {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        
         CompoundAssignmentOperator cao = new CompoundAssignmentOperator();
     }
-            
+    
 }
